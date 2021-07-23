@@ -1,2 +1,4 @@
 - name: Index
   href: index.md
+- name: pull_request_only
+  href: bugs/432905/repro.md
