@@ -11,4 +11,4 @@ ms.service: container-service
 
 [BUG 432905](https://dev.azure.com/ceapex/Engineering/_workitems/edit/432905)
 
-![cat](./images/cat.jpg)
+![dog](./images/cat.jpg)
